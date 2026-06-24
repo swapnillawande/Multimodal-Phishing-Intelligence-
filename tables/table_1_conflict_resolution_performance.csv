@@ -1,0 +1,6 @@
+Evidence Pattern,Samples,Accuracy (%),Precision (%),Recall (%),F1-score (%),PR-AUC,Brier,ROC-AUC,Note
+Suspicious Email + Benign URL + Fake Webpage,0,,,,,,,,Insufficient samples
+Benign Email + Suspicious URL + Benign Webpage,6,100.0,0.0,0.0,0.0,0.0,0.014202156711783211,,Evaluated
+Benign Email + Benign URL + Fake Webpage,5,100.0,0.0,0.0,0.0,0.0,0.10121150227608591,,Evaluated
+Suspicious Email + Benign URL + Benign Webpage,0,,,,,,,,Insufficient samples
+Partially Contradictory Modalities,142,95.77464788732394,87.5,97.22222222222221,92.10526315789474,0.9828761409811639,0.056960829925071885,0.9892557651991614,Evaluated

@@ -1,0 +1,67 @@
+MULTIMODAL PHISHING INTELLIGENCE
+Dataset Sources
+
+1. SpamAssassin Public Corpus
+Description:
+Email dataset containing legitimate and phishing/spam emails used for email-based phishing detection.
+
+Link:
+https://spamassassin.apache.org/old/publiccorpus/
+
+Citation:
+The Apache SpamAssassin Public Corpus.
+
+
+--------------------------------------------------
+
+2. PhiUSIIL Phishing URL Dataset
+
+Description:
+Large-scale phishing and legitimate URL dataset used for URL-based phishing detection and analysis.
+
+Link:
+https://archive.ics.uci.edu/dataset/967/phiusiil+phishing+url+dataset
+
+Citation:
+PhiUSIIL Phishing URL Dataset, UCI Machine Learning Repository.
+
+
+--------------------------------------------------
+
+3. Mendeley Phishing Website Dataset
+
+Description:
+Dataset containing phishing and legitimate website HTML content and webpage screenshots used for webpage-based phishing detection.
+
+Link:
+https://data.mendeley.com/datasets/n96ncsr5g4/1
+
+Citation:
+Mendeley Data – Phishing Website Dataset.
+
+
+--------------------------------------------------
+
+4. Kaggle Phishing Email Dataset
+
+Description:
+Email modality for phishing email detection.
+
+Link:
+https://www.kaggle.com/datasets/subhajournal/phishingemails
+
+
+--------------------------------------------------
+
+Dataset Usage in This Study
+
+Email Modality:
+- SpamAssassin Public Corpus
+
+URL Modality:
+- PhiUSIIL Phishing URL Dataset
+
+Webpage Modality:
+- Mendeley Phishing Website Dataset
+
+The datasets were used exclusively for academic research and experimentation in the proposed Explainable Multimodal Phishing Intelligence Framework.

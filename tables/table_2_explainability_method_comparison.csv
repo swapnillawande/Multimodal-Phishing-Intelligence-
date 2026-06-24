@@ -1,0 +1,5 @@
+Explanation Method,Primary Evidence Type,Fidelity,Sparsity,Stability
+Email TF-IDF coefficients,Linguistic email cues,0.9922527777777777,0.75,0.8
+URL lexical coefficients,URL structural cues,0.8894111111111112,0.72,0.78
+HTML structural/text coefficients,Webpage HTML cues,0.9719791666666667,0.7,0.76
+Unified multimodal score explanation,Combined cross-modal cues,0.9980777777777778,0.8,0.84

@@ -1,0 +1,11 @@
+System,Result_Type,Alerts per Day,Estimated False Positives per Day,Estimated False Negatives per Day,Estimated Review Time (hours/day),Operational Utility Score
+Email-only,Model,2000,108,76,3.6,0.94
+URL-only,Model,2000,449,159,14.97,0.863
+Webpage-HTML-only,Model,2000,194,116,6.47,0.947
+Email + URL,Bimodal,2000,13,0,0.43,0.666
+Email + Webpage,Bimodal,2000,46,26,1.53,0.66
+URL + Webpage,Bimodal,2000,6,0,0.2,0.666
+Email + URL + Webpage (Proposed),Trimodal,2000,6,0,0.2,0.666
+Late Fusion Meta-classifier,Model,2000,58,6,1.93,0.965
+Constrained Balanced Weighted Fusion,Model,2000,52,13,1.73,0.924
+Performance-Optimized Fusion,Model,2000,107,6,3.57,0.911
